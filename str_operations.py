@@ -8,5 +8,7 @@ print(len(a))
 #Penggabungan kata
 a = "Hello semua dunia saya Ghiffari"
 b = "World!"
+d = a + b
 c = a + " " + b
 print(c)
+print(d)

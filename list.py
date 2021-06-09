@@ -8,9 +8,10 @@ print(len(mylist))
 # [a, 12, 20]
 # [0  1    2]
 
-mylist[2]=" " #mengedit isi list
+mylist[2]=30 #mengedit isi list
 print(mylist)
 
 a = int(input("Masukkan data ke dalam mylist : "))
 mylist.append(a)
 print(mylist)
+print(len(mylist))
