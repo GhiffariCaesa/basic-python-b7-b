@@ -4,6 +4,8 @@ mylist.append(12)
 mylist.append(20)
 print(mylist)
 print(len(mylist))
+del mylist[2]
+print(mylist)
 
 # [a, 12, 20]
 # [0  1    2]
