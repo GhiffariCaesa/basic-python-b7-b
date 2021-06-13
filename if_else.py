@@ -5,4 +5,4 @@ if a > b:
 elif a < b:
     print("Bilangan a lebih kecil dari b")
 else:
-    print("Bilangan a sama dengan bilangan b")        
+    print("Bilangan a sama dengan bilangan b") 
